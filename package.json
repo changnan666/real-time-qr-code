@@ -1,6 +1,6 @@
 {
   "name": "real-time-qr-code",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "生成二维码的 react 组件",
   "author": "changnan666",
   "license": "MIT",
@@ -9,7 +9,11 @@
     "real-time-qr-code",
     "hooks"
   ],
-  "repository": "changnan666/real-time-qr-code",
+  "repository": "https://github.com/changnan666/real-time-qr-code",
+  "homepage": "https://changnan666.github.io/real-time-qr-code",
+  "bugs": {
+    "url": "https://github.com/changnan666/real-time-qr-code/issues"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
