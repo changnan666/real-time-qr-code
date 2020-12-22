@@ -1,0 +1,11 @@
+example
+node_modules
+src
+
+.editorconfig
+.eslintignore
+.gitignore
+.prettierrc
+package-lock.json
+tsconfig.json
+tsconfig.test.json
